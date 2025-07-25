@@ -1,0 +1,10 @@
+# Ignore training outputs
+finetuned_bangla_rag_model/
+logs/
+__pycache__/
+*.pt
+*.bin
+*.ckpt
+*.log
+*.pkl
+.ipynb_checkpoints/

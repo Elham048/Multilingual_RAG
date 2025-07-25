@@ -1,0 +1,346 @@
+{
+  "bangla_qa_pairs": [
+    {
+      "context": "আমার বয়স সাতার মাত্র। এই জীবনটা না দদীঘিযি হাসাবে ব্যে, না গুনি হাসাবে। তবু ইহার একটু বিশেষ মূল্য আছে। ইহা যেই ফুলের মতা যাহার বুক্কি উপরি ভ্রমর আর্স া ব্র্স ারিল, এবং যেই পদক্ষেপি ইতিহাস তাহার জীবনের মাঝখানে ফুলের মতা গুটি ধরিয়া উঠি াছে।",
+      "question": "অনুপম তার জীবনের মূল্য সম্পর্কে কী বলেছেন?",
+      "answer": "অনুপম বলেছেন যে তার জীবন দীর্ঘ বা গুণে হাসাবে নয়, তবে এর একটু বিশেষ মূল্য আছে, যেমন একটি ফুলের মতো যার উপর ভ্রমর এসেছে এবং যার জীবনের মাঝখানে ইতিহাস ফুলের মতো গুটি ধরেছে।"
+    },
+    {
+      "context": "অনুপমের বন্ধু হরিশ কানপুরি কাশি করে।",
+      "question": "অনুপমের বন্ধু হরিশ কী পেশায় নিয়োজিত ছিলেন?",
+      "answer": "অনুপমের বন্ধু হরিশ কানপুরে কাশি করতেন।"
+    },
+    {
+      "context": "অনুপমের মামা বলেছিলেন, 'এটা আপনাদের লজ্জনস, আপনাদের কাশেই থাক।' এই কথাটি কন্যার গহনা পরীক্ষা করার সময় বলা হয়েছিল।",
+      "question": "অনুপমের মামা কেন বলেছিলেন, 'এটা আপনাদের লজ্জনস, আপনাদের কাশেই থাক'?",
+      "answer": "অনুপমের মামা এ কথা বলেছিলেন কারণ তিনি কন্যার গহনা পরীক্ষা করে দেখেন যে, সেটি খাঁটি সোনার নয়, এবং এমন নিম্নমানের গহনা গ্রহণ করা তাদের জন্য লজ্জার বিষয়।"
+    },
+    {
+      "context": "কল্যাণীর বাবা সম্ভুনাথ সেন বিয়ে ঠিক করার পর গহনা পরীক্ষা করে অসম্মতি জানান।",
+      "question": "কল্যাণীর বাবা সম্ভুনাথ সেন কেন বিয়েতে অসম্মতি জানান?",
+      "answer": "সম্ভুনাথ সেন বিয়েতে অসম্মতি জানান কারণ তিনি কন্যার গহনা পরীক্ষা করে দেখেন যে, সেগুলো খাঁটি সোনার নয় এবং নিম্নমানের, যা তাদের সম্মানের জন্য অগ্রহণযোগ্য।"
+    },
+    {
+      "context": "যৌতুকপ্রথা একটি সামাজিক ব্যাধি। এটি আমাদের সমাজে ভয়ঙ্কর রূপ ধারণ করেছে। বিয়েপক্ষের দাবি পূরণ করতে কন্যার পিতাকে কখনো কখনো সর্বস্বান্ত হতে হয়।",
+      "question": "যৌতুকপ্রথা সমাজে কী ধরনের প্রভাব ফেলে?",
+      "answer": "যৌতুকপ্রথা একটি সামাজিক ব্যাধি হিসেবে সমাজে ভয়ঙ্কর রূপ ধারণ করে এবং বিয়েপক্ষের দাবি পূরণ করতে কন্যার পিতাকে কখনো কখনো সর্বস্বান্ত হতে হয়।"
+    },
+    {
+      "context": "‘ইসনকচৌর্ক’ শব্দের অর্থ হলো ঢাক, ঢোল ও কাঁসর- এই তিন বাদ্যযন্ত্রের সৃষ্ট ঐকতানবাদন।",
+      "question": "‘ইসনকচৌর্ক’ শব্দের অর্থ কী?",
+      "answer": "‘ইসনকচৌর্ক’ শব্দের অর্থ হলো ঢাক, ঢোল ও কাঁসর- এই তিন বাদ্যযন্ত্রের সৃষ্ট ঐকতানবাদন।"
+    },
+    {
+      "context": "কল্যাণী বিয়েতে অসম্মতি জানানোর পর তার বাবার সিদ্ধান্তের প্রতি সম্মান দেখিয়ে শিক্ষকতার ব্রত গ্রহণ করেন।",
+      "question": "কল্যাণী বিয়েতে অসম্মতি জানানোর পর কী করেন?",
+      "answer": "কল্যাণী বিয়েতে অসম্মতি জানানোর পর তার বাবার সিদ্ধান্তের প্রতি সম্মান দেখিয়ে শিক্ষকতার ব্রত গ্রহণ করেন।"
+    },
+    {
+      "context": "অনুপমের মা অতিরিক্ত স্নেহের কারণে তাকে আত্মনির্ভরশীল করতে পারেননি, ফলে সে ব্যক্তিত্বহীন হয়ে ওঠে।",
+      "question": "অনুপমের ব্যক্তিত্বহীনতার কারণ কী ছিল?",
+      "answer": "অনুপমের ব্যক্তিত্বহীনতার কারণ ছিল তার মায়ের অতিরিক্ত স্নেহ, যা তাকে আত্মনির্ভরশীল করতে পারেনি।"
+    },
+    {
+      "context": "উদ্দীপকে সরিতা যৌতুকের দাবি প্রত্যাখ্যান করে বিয়েতে অসম্মতি জানান এবং শিক্ষকতার পেশায় নিজেকে নিয়োজিত করেন।",
+      "question": "উদ্দীপকে সরিতা কেন বিয়েতে অসম্মতি জানান?",
+      "answer": "সরিতা যৌতুকের দাবি প্রত্যাখ্যান করে বিয়েতে অসম্মতি জানান এবং শিক্ষকতার পেশায় নিজেকে নিয়োজিত করেন।"
+    },
+    {
+      "context": "অনুপমের মামা বিবাহের সম্বন্ধে গহনা পরীক্ষা করে বলেন, 'এটা আপনাদের লজ্জনস, আপনাদের কাশেই থাক।' এটি তার যৌতুকপ্রথার প্রতি বিরূপ মনোভাব প্রকাশ করে।",
+      "question": "অনুপমের মামা গহনা পরীক্ষার সময় কী বলেন এবং এটি কী প্রকাশ করে?",
+      "answer": "অনুপমের মামা গহনা পরীক্ষার সময় বলেন, 'এটা আপনাদের লজ্জনস, আপনাদের কাশেই থাক।' এটি তার যৌতুকপ্রথার প্রতি বিরূপ মনোভাব প্রকাশ করে।"
+    },
+    {
+      "context": "ফল্গু শব্দের অর্থ ভারতের গঙ্গা অঞ্চলের অন্তঃসলিলা নদী। নদীটির ওপরের অংশ বাজলি আস্তরণ কিন্তু ভিতরে রলকরাত প্রবাহিত।",
+      "question": "‘ফল্গু’ শব্দের অর্থ কী?",
+      "answer": "‘ফল্গু’ শব্দের অর্থ ভারতের গঙ্গা অঞ্চলের অন্তঃসলিলা নদী, যার ওপরের অংশ বাজলি আস্তরণ কিন্তু ভিতরে রলকরাত প্রবাহিত।"
+    },
+    {
+      "context": "অনুপমের বন্ধু হরিশের সঙ্গে কল্যাণীর বিয়ের প্রস্তাব এলে তার মামা এটি প্রত্যাখ্যান করেন কারণ তিনি হরিশের যৌতুকপ্রথার প্রতি লোভী মানসিকতা পছন্দ করেননি।",
+      "question": "অনুপমের মামা কেন হরিশের সঙ্গে কল্যাণীর বিয়ের প্রস্তাব প্রত্যাখ্যান করেন?",
+      "answer": "অনুপমের মামা হরিশের সঙ্গে কল্যাণীর বিয়ের প্রস্তাব প্রত্যাখ্যান করেন কারণ তিনি হরিশের যৌতুকপ্রথার প্রতি লোভী মানসিকতা পছন্দ করেননি।"
+    },
+    {
+      "context": "অনুপমের মা তাকে অতিরিক্ত স্নেহ দিয়ে বড় করেছেন, যার ফলে সে একজন ব্যক্তিত্বহীন ও নির্ভরশীল ব্যক্তি হয়ে উঠেছে।",
+      "question": "অনুপমের মায়ের স্নেহের ফলে তার ব্যক্তিত্বে কী প্রভাব পড়েছে?",
+      "answer": "অনুপমের মায়ের অতিরিক্ত স্নেহের ফলে সে একজন ব্যক্তিত্বহীন ও নির্ভরশীল ব্যক্তি হয়ে উঠেছে।"
+    },
+    {
+      "context": "উদ্দীপকে পলিশ স্বাধীন মত প্রকাশের সাহস দেখিয়ে বিয়েতে অসম্মতি জানান এবং তার ব্যক্তিত্বের প্রকাশ ঘটে।",
+      "question": "উদ্দীপকে পলিশ কীভাবে তার ব্যক্তিত্বের প্রকাশ ঘটান?",
+      "answer": "উদ্দীপকে পলিশ স্বাধীন মত প্রকাশের সাহস দেখিয়ে বিয়েতে অসম্মতি জানান এবং এর মাধ্যমে তার ব্যক্তিত্বের প্রকাশ ঘটে।"
+    },
+    {
+      "context": "অনুপমের মামা বিবাহের সম্বন্ধে গহনা পরীক্ষা করে দেখেন যে, সেগুলো খাঁটি সোনার নয়, এবং তিনি এই নিম্নমানের গহনা গ্রহণ করতে অস্বীকার করেন।",
+      "question": "অনুপমের মামা কেন বিয়ের গহনা গ্রহণ করতে অস্বীকার করেন?",
+      "answer": "অনুপমের মামা বিয়ের গহনা গ্রহণ করতে অস্বীকার করেন কারণ সেগুলো খাঁটি সোনার নয় এবং নিম্নমানের ছিল।"
+    },
+    {
+      "context": "চুল কাঁচা, যগঁাফ পাক ধরিতে আরম্ভ করিয়া মাত্র। সুপুরুষ ব্যে। ভ্যেি মধ্যে দেখিলে স্কুলে আগে তঁার উপরি চাখ পড়িবার মতা চহারা।",
+      "question": "অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?",
+      "answer": "শুম্ভুনাথ"
+    },
+    {
+      "context": "অনুপমের মামা, যিনি পৃথিবীতে আমার ভাগ্যদেবতার প্রধান এজেন্ট, বিবাহ সম্বন্ধে তঁার একটা বিশেষ মত ছিল।",
+      "question": "কাকে অনুপমের ভাগ্যদেবতা বলা হয়েছে?",
+      "answer": "মামাকে"
+    },
+    {
+      "context": "অনুপমের মতে কল্যাণীর প্রকৃত বয়স ছিল পঁচিশ বছর, কিন্তু প্রশ্নোত্তরে উল্লেখ আছে যে তার বয়স ছিল সাতার, অর্থাৎ ১৫ বছর।",
+      "question": "বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?",
+      "answer": "১৫ বছর"
+    },
+    {
+      "context": "‘অপরিচিতা’ গল্পটি রবীন্দ্রনাথ ঠাকুরের লেখা একটি উল্লেখযোগ্য সাহিত্যকর্ম, যা সমাজের যৌতুকপ্রথার বিরুদ্ধে তীব্র সমালোচনা প্রকাশ করে।",
+      "question": "অপরিচিতা গল্পের লেখক কে?",
+      "answer": "রবীন্দ্রনাথ ঠাকুর"
+    },
+    {
+      "context": "কল্যাণীর বাবা সম্ভুনাথ সেন রেলওয়েতে চাকরি করতেন।",
+      "question": "কল্যাণীর বাবা কোথায় চাকরি করতেন?",
+      "answer": "রেলওয়েতে"
+    },
+    {
+      "context": "ওকালতি করিয়া তিনি প্রচুর টাকা জির্গার করিয়া ছিলেন, ভাগ করিবার সময় নির্মমাত্র পান নাই।",
+      "question": "অনুপম কোথায় চাকরি করতেন?",
+      "answer": "ব্যাঙ্কে"
+    },
+    {
+      "context": "অনুপম একজন সৎ, শিক্ষিত এবং আত্মবিশ্বাসী পাত্র ছিলেন, যদিও তার মায়ের অতিরিক্ত স্নেহের কারণে তিনি ব্যক্তিত্বহীন হয়ে উঠেছিলেন।",
+      "question": "অনুপম কী ধরনের পাত্র ছিল?",
+      "answer": "সৎ, শিক্ষিত, আত্মবিশ্বাসী"
+    },
+    {
+      "context": "‘অপরিচিতা’ গল্পে যৌতুকপ্রথার বিরুদ্ধে তীব্র সমালোচনা করা হয়েছে, যেখানে অনুপমের মামা গহনার মান দেখে বিয়েতে অসম্মতি জানান।",
+      "question": "‘অপরিচিতা’ গল্পে কোন সামাজিক সমস্যার সমালোচনা করা হয়েছে?",
+      "answer": "যৌতুকপ্রথা"
+    },
+    {
+      "context": "অনুপমের বন্ধু হরিশ কল্যাণীর সঙ্গে বিয়ের প্রস্তাব নিয়ে আসেন, কিন্তু তার যৌতুকের প্রতি লোভী মনোভাবের কারণে এটি প্রত্যাখ্যাত হয়।",
+      "question": "হরিশের বিয়ের প্রস্তাব কেন প্রত্যাখ্যাত হয়?",
+      "answer": "হরিশের যৌতুকের প্রতি লোভী মনোভাবের কারণে তার বিয়ের প্রস্তাব প্রত্যাখ্যাত হয়।"
+    },
+    {
+      "context": "‘মনোমন্দির’ শব্দের অর্থ হলো মনের মন্দির বা হৃদয়ের গভীর স্থান।",
+      "question": "‘মনোমন্দির’ শব্দের অর্থ কী?",
+      "answer": "মনোমন্দির শব্দের অর্থ মনের মন্দির বা হৃদয়ের গভীর স্থান।"
+    },
+    {
+      "context": "কল্যাণী তার বাবার সিদ্ধান্তের প্রতি সম্মান দেখিয়ে শিক্ষকতার পেশা গ্রহণ করেন, যা তার স্বাধীনতা ও আত্মমর্যাদার প্রকাশ ঘটায়।",
+      "question": "কল্যাণীর শিক্ষকতার পেশা গ্রহণ কী প্রকাশ করে?",
+      "answer": "কল্যাণীর শিক্ষকতার পেশা গ্রহণ তার স্বাধীনতা ও আত্মমর্যাদার প্রকাশ ঘটায়।"
+    },
+    {
+      "context": "উদ্দীপকে শোভনা যৌতুকের দাবি প্রত্যাখ্যান করে বিয়েতে অসম্মতি জানান এবং নিজের ক্যারিয়ারে মনোনিবেশ করেন।",
+      "question": "উদ্দীপকে শোভনা কেন বিয়েতে অসম্মতি জানান?",
+      "answer": "শোভনা যৌতুকের দাবি প্রত্যাখ্যান করে বিয়েতে অসম্মতি জানান এবং নিজের ক্যারিয়ারে মনোনিবেশ করেন।"
+    },
+    {
+      "context": "অনুপমের মামা বিবাহের সম্বন্ধে কঠোর মনোভাব পোষণ করতেন এবং যৌতুকের প্রতি তার বিরূপ মনোভাব ছিল।",
+      "question": "অনুপমের মামার বিবাহ সম্বন্ধে কী ধরনের মনোভাব ছিল?",
+      "answer": "অনুপমের মামার বিবাহ সম্বন্ধে কঠোর মনোভাব এবং যৌতুকের প্রতি বিরূপ মনোভাব ছিল।"
+    },
+    {
+      "context": "‘অপরিচিতা’ গল্পে কল্যাণীর চরিত্র নারীর স্বাধীনতা ও আত্মমর্যাদার প্রতীক হিসেবে উপস্থাপিত হয়েছে।",
+      "question": "‘অপরিচিতা’ গল্পে কল্যাণীর চরিত্র কী হিসেবে উপস্থাপিত হয়েছে?",
+      "answer": "কল্যাণীর চরিত্র নারীর স্বাধীনতা ও আত্মমর্যাদার প্রতীক হিসেবে উপস্থাপিত হয়েছে।"
+    },
+    {
+      "context": "‘অপরিচিতা’ গল্পে অনুপমের মা তার ছেলেকে অতিরিক্ত স্নেহ দিয়ে বড় করেছেন, যা তার স্বাধীনতা ও ব্যক্তিত্বের বিকাশে বাধা সৃষ্টি করেছে।",
+      "question": "অনুপমের মায়ের স্নেহ কীভাবে তার ব্যক্তিত্বকে প্রভাবিত করেছে?",
+      "answer": "অনুপমের মায়ের অতিরিক্ত স্নেহ তার স্বাধীনতা ও ব্যক্তিত্বের বিকাশে বাধা সৃষ্টি করেছে।"
+    },
+    {
+      "context": "‘কুসুম’ শব্দের অর্থ হলো ফুল, যা গল্পে কল্যাণীর সৌন্দর্য ও পবিত্রতার প্রতীক হিসেবে ব্যবহৃত হয়েছে।",
+      "question": "‘কুসুম’ শব্দের অর্থ কী এবং এটি গল্পে কীভাবে ব্যবহৃত হয়েছে?",
+      "answer": "‘কুসুম’ শব্দের অর্থ ফুল, এবং এটি কল্যাণীর সৌন্দর্য ও পবিত্রতার প্রতীক হিসেবে ব্যবহৃত হয়েছে।"
+    },
+    {
+      "context": "উদ্দীপকে রমা তার পরিবারের যৌতুকের দাবি প্রত্যাখ্যান করে এবং স্বাধীনভাবে নিজের জীবন গড়ার সিদ্ধান্ত নেন।",
+      "question": "উদ্দীপকে রমা কী সিদ্ধান্ত নেন?",
+      "answer": "রমা যৌতুকের দাবি প্রত্যাখ্যান করে স্বাধীনভাবে নিজের জীবন গড়ার সিদ্ধান্ত নেন।"
+    },
+    {
+      "context": "‘অপরিচিতা’ গল্পে রবীন্দ্রনাথ ঠাকুর নারীর আত্মমর্যাদা ও স্বাধীনতার পক্ষে শক্তিশালী বার্তা প্রদান করেছেন।",
+      "question": "‘অপরিচিতা’ গল্পে রবীন্দ্রনাথ ঠাকুর কোন বিষয়ের পক্ষে বার্তা প্রদান করেছেন?",
+      "answer": "নারীর আত্মমর্যাদা ও স্বাধীনতা"
+    },
+    {
+      "context": "অনুপমের বন্ধু হরিশ কানপুরে কাশির কাজ করতেন, যা তার আর্থিক অবস্থার উন্নতির ইঙ্গিত দেয়।",
+      "question": "হরিশের পেশা তার কোন দিকটির ইঙ্গিত দেয়?",
+      "answer": "হরিশের পেশা তার আর্থিক অবস্থার উন্নতির ইঙ্গিত দেয়।"
+    }
+  ],
+  "english_qa_pairs": [
+    {
+      "context": "My age is only seventeen. This life is neither long-lasting nor full of qualities. Yet, it has a certain special value. It is like a flower on which a bee has landed, and in the middle of whose life history has begun to form like a bud.",
+      "question": "What does Anupam say about the value of his life?",
+      "answer": "Anupam says his life is neither long nor full of qualities, but it has a special value, like a flower visited by a bee, with history forming like a bud in its life."
+    },
+    {
+      "context": "Anupam’s friend Harish was engaged in weaving in Kanpur.",
+      "question": "What profession was Anupam’s friend Harish engaged in?",
+      "answer": "Anupam’s friend Harish was engaged in weaving in Kanpur."
+    },
+    {
+      "context": "Anupam’s uncle said, 'This is your shame, keep it with you.' This was said while examining the bride’s jewelry.",
+      "question": "Why did Anupam’s uncle say, 'This is your shame, keep it with you'?",
+      "answer": "Anupam’s uncle said this because he found the bride’s jewelry was not pure gold, and accepting such low-quality jewelry was shameful for them."
+    },
+    {
+      "context": "Kalyani’s father, Shambhunath Sen, refused the marriage after examining the jewelry.",
+      "question": "Why did Kalyani’s father, Shambhunath Sen, refuse the marriage?",
+      "answer": "Shambhunath Sen refused the marriage because he found the jewelry was not pure gold and of low quality, unacceptable for their honor."
+    },
+    {
+      "context": "The dowry system is a social evil. It has taken a terrible form in our society. To meet the demands of the groom’s side, the bride’s father sometimes has to lose everything.",
+      "question": "What kind of impact does the dowry system have on society?",
+      "answer": "The dowry system, as a social evil, takes a terrible form in society, sometimes causing the bride’s father to lose everything to meet the groom’s demands."
+    },
+    {
+      "context": "The word ‘Isankachourk’ means the combined music produced by three instruments: dhak, dhol, and kansar.",
+      "question": "What is the meaning of the word ‘Isankachourk’?",
+      "answer": "‘Isankachourk’ means the combined music produced by the three instruments: dhak, dhol, and kansar."
+    },
+    {
+      "context": "After refusing the marriage, Kalyani respects her father’s decision and takes up the vow of teaching.",
+      "question": "What does Kalyani do after refusing the marriage?",
+      "answer": "Kalyani respects her father’s decision and takes up the vow of teaching after refusing the marriage."
+    },
+    {
+      "context": "Due to excessive affection, Anupam’s mother could not make him self-reliant, resulting in him becoming personality-less.",
+      "question": "What was the reason for Anupam’s lack of personality?",
+      "answer": "Anupam’s lack of personality was due to his mother’s excessive affection, which prevented him from becoming self-reliant."
+    },
+    {
+      "context": "In the stimulus, Sarita rejects the dowry demand, refuses the marriage, and engages herself in the teaching profession.",
+      "question": "Why does Sarita refuse the marriage in the stimulus?",
+      "answer": "Sarita rejects the dowry demand, refuses the marriage, and engages herself in the teaching profession."
+    },
+    {
+      "context": "Anupam’s uncle examines the jewelry for the marriage and says, 'This is your shame, keep it with you.' This expresses his negative attitude toward the dowry system.",
+      "question": "What does Anupam’s uncle say during the jewelry examination, and what does it express?",
+      "answer": "Anupam’s uncle says, 'This is your shame, keep it with you,' expressing his negative attitude toward the dowry system."
+    },
+    {
+      "context": "The word ‘Phalgu’ refers to a subterranean river in the Ganga region of India. Its upper part is a sandy layer, but it flows forcefully beneath.",
+      "question": "What is the meaning of the word ‘Phalgu’?",
+      "answer": "‘Phalgu’ refers to a subterranean river in the Ganga region, with a sandy upper layer but flowing forcefully beneath."
+    },
+    {
+      "context": "When Harish, Anupam’s friend, proposes marriage with Kalyani, her uncle rejects it because he disapproves of Harish’s greedy attitude toward the dowry system.",
+      "question": "Why does Anupam’s uncle reject Harish’s marriage proposal with Kalyani?",
+      "answer": "Anupam’s uncle rejects Harish’s marriage proposal because he disapproves of Harish’s greedy attitude toward the dowry system."
+    },
+    {
+      "context": "Anupam’s mother raised him with excessive affection, resulting in him becoming a personality-less and dependent individual.",
+      "question": "How did Anupam’s mother’s affection affect his personality?",
+      "answer": "Anupam’s mother’s excessive affection made him a personality-less and dependent individual."
+    },
+    {
+      "context": "In the stimulus, Polish shows the courage to express her independent opinion by refusing the marriage, thus revealing her personality.",
+      "question": "How does Polish reveal her personality in the stimulus?",
+      "answer": "Polish shows the courage to express her independent opinion by refusing the marriage, thus revealing her personality."
+    },
+    {
+      "context": "Anupam’s uncle examines the marriage jewelry and finds it is not pure gold, refusing to accept such low-quality jewelry.",
+      "question": "Why does Anupam’s uncle refuse to accept the marriage jewelry?",
+      "answer": "Anupam’s uncle refuses the marriage jewelry because it is not pure gold and is of low quality."
+    },
+    {
+      "context": "His hair is black, his mustache just beginning to gray. A handsome man. In a crowd, his appearance would catch the eye first.",
+      "question": "Who is described as handsome in Anupam’s words?",
+      "answer": "Shambhunath"
+    },
+    {
+      "context": "Anupam’s uncle, the main agent of my fate in this world, had a specific opinion about marriage.",
+      "question": "Who is referred to as Anupam’s fate deity?",
+      "answer": "His uncle"
+    },
+    {
+      "context": "According to Anupam, Kalyani’s actual age was twenty-five, but the Q&A mentions her age as seventeen, i.e., 15 years.",
+      "question": "What was Kalyani’s actual age at the time of the marriage?",
+      "answer": "15 years"
+    },
+    {
+      "context": "The story ‘Aparichita’ is a notable literary work by Rabindranath Tagore, sharply critiquing the dowry system in society.",
+      "question": "Who is the author of the story ‘Aparichita’?",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "context": "Kalyani’s father, Shambhunath Sen, worked in the railway department.",
+      "question": "Where did Kalyani’s father work?",
+      "answer": "In the railway department"
+    },
+    {
+      "context": "He earned a lot of money through legal practice, but received nothing during the division.",
+      "question": "Where did Anupam work?",
+      "answer": "In a bank"
+    },
+    {
+      "context": "Anupam was an honest, educated, and confident suitor, though his mother’s excessive affection made him personality-less.",
+      "question": "What kind of suitor was Anupam?",
+      "answer": "Honest, educated, confident"
+    },
+    {
+      "context": "In ‘Aparichita,’ the dowry system is sharply criticized, as Anupam’s uncle refuses the marriage upon seeing the quality of the jewelry.",
+      "question": "What social issue is criticized in ‘Aparichita’?",
+      "answer": "The dowry system"
+    },
+    {
+      "context": "Anupam’s friend Harish brings a marriage proposal for Kalyani, but it is rejected due to his greedy attitude toward dowry.",
+      "question": "Why is Harish’s marriage proposal rejected?",
+      "answer": "Harish’s marriage proposal is rejected due to his greedy attitude toward dowry."
+    },
+    {
+      "context": "The word ‘Manomondir’ means the temple of the mind or the deep place of the heart.",
+      "question": "What is the meaning of the word ‘Manomondir’?",
+      "answer": "‘Manomondir’ means the temple of the mind or the deep place of the heart."
+    },
+    {
+      "context": "Kalyani respects her father’s decision and takes up the teaching profession, expressing her independence and self-respect.",
+      "question": "What does Kalyani’s adoption of the teaching profession express?",
+      "answer": "Kalyani’s adoption of the teaching profession expresses her independence and self-respect."
+    },
+    {
+      "context": "In the stimulus, Shobhona rejects the dowry demand, refuses the marriage, and focuses on her career.",
+      "question": "Why does Shobhona refuse the marriage in the stimulus?",
+      "answer": "Shobhona rejects the dowry demand, refuses the marriage, and focuses on her career."
+    },
+    {
+      "context": "Anupam’s uncle held a strict attitude toward marriage and had a negative view of the dowry system.",
+      "question": "What was Anupam’s uncle’s attitude toward marriage?",
+      "answer": "Anupam’s uncle had a strict attitude toward marriage and a negative view of the dowry system."
+    },
+    {
+      "context": "In ‘Aparichita,’ Kalyani’s character is presented as a symbol of women’s independence and self-respect.",
+      "question": "How is Kalyani’s character presented in ‘Aparichita’?",
+      "answer": "Kalyani’s character is presented as a symbol of women’s independence and self-respect."
+    },
+    {
+      "context": "In ‘Aparichita,’ Anupam’s mother raised him with excessive affection, hindering his independence and personality development.",
+      "question": "How did Anupam’s mother’s affection affect his personality?",
+      "answer": "Anupam’s mother’s excessive affection hindered his independence and personality development."
+    },
+    {
+      "context": "The word ‘Kusum’ means flower, used in the story as a symbol of Kalyani’s beauty and purity.",
+      "question": "What is the meaning of the word ‘Kusum,’ and how is it used in the story?",
+      "answer": "‘Kusum’ means flower, used as a symbol of Kalyani’s beauty and purity."
+    },
+    {
+      "context": "In the stimulus, Rama rejects her family’s dowry demands and decides to build her life independently.",
+      "question": "What decision does Rama make in the stimulus?",
+      "answer": "Rama rejects dowry demands and decides to build her life independently."
+    },
+    {
+      "context": "In ‘Aparichita,’ Rabindranath Tagore delivers a strong message in favor of women’s self-respect and independence.",
+      "question": "What message does Rabindranath Tagore deliver in ‘Aparichita’?",
+      "answer": "Women’s self-respect and independence"
+    },
+    {
+      "context": "Anupam’s friend Harish worked as a weaver in Kanpur, indicating an improvement in his financial condition.",
+      "question": "What does Harish’s profession indicate about him?",
+      "answer": "Harish’s profession indicates an improvement in his financial condition."
+    }
+  ]
+}
